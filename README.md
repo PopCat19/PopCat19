@@ -10,7 +10,7 @@ I think cats are chill.
 ### What do I do
 I don't do much. Mostly sleep, watch YouTube/[Anime](https://anilist.co/user/popcat19/), listen to [music](https://music.youtube.com/playlist?list=PLV_Dz6w68lZ1eS6_VLAKNJCgBjBYhL3bd), read through Danbooru/Pixiv, and sometimes check out cool projects to try. That said, I'm interested in doing [2D Illustrations](https://www.pixiv.net/en/users/89345370), composing music, and learn Rust and TypeScript someday.
 
-I do vibe code some projects like [`img-glsl-webui`](https://github.com/PopCat19/img-glsl-webui) for having something to render screen shaders on an image. Something I wanted where none were present/satiable.
+I did vibe code some projects like [`img-glsl-webui`](https://github.com/PopCat19/img-glsl-webui) for having something to render screen shaders on an image. Something I wanted where none were present/satiable.
 
 I used to play [osu!](https://osu.ppy.sh/users/27223591) frequently, so I made a [`Project-Minimalist`](https://github.com/PopCat19/Project-Minimalist) skin in Figma. It turned out better than I'd expected, and learned plenty about Figma and even made a custom palette, which a webui of it is hosted in [`minimalist-palette-web`](https://github.com/PopCat19/minimalist-palette-web) repo.
 
