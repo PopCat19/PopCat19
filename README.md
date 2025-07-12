@@ -3,7 +3,7 @@ I'm PopCat19 (or kat) and I can't code. Though, I do vibecoding for fun.
 
 I'm lazy, so instead of going through proper means for a solution, I suffer by making things overcomplicated just for a solution. 
 
-I've been comfortable at prompting for a while. I've been messing with LLMs since GPT 3.5 and Pygmalion 6B were released. I've also experimented with Stable Diffusion and [anime|pastel] finetuned models like WaifuDiffusion and AnythingV3 alike. Though, I've leaned off imagegen in favor of learning to draw 2D illustrations.
+I've been comfortable at prompting for a while. I've been messing with LLMs since GPT 3.5, Pygmalion 6B, and character.ai blue backwards hat guy were released. I've also experimented with Stable Diffusion and [anime|pastel] finetuned models like WaifuDiffusion and AnythingV3 alike. Though, I've leaned off imagegen in favor of learning to draw 2D illustrations.
 
 ...I think cats are chill.
 
