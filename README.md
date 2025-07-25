@@ -20,5 +20,5 @@ Speaking of NixOS, I'm also trying to get it running (with LLM guidance) under [
 |\
 It's been a challenge due to both my inexperience and how ChromeOS shim kernel has unique quirks that makes it difficult to get non-FHS distro like NixOS running there. The repo is [`nixos-shimboot`](https://github.com/PopCat19/nixos-shimboot), which as of now doesn't boot into a DE/WM or even getty (yet).
 
-Also, if you wanna read me ramble about useless stuff, go ahead. Just don't internalize it, it's not worth really anything.
+Also, if you wanna read me ramble about useless stuff, go ahead. Just don't internalize it, it's not worth really anything.\
 https://rentry.org/Katonotes00
