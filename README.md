@@ -18,4 +18,4 @@ I've also recently started using NixOS, so [`popcat19-nixos-hm`](https://github.
 
 Speaking of NixOS, I'm also trying to get it running (with LLM guidance) under [`shimboot`](https://github.com/ading2210/shimboot) by [`ading2210`](https://github.com/ading2210). It's based on an exploit [Mercury Workshop team](https://sh1mmer.me/) discovered where we can replace RMA shim's rootfs with anything we want, albeit with kernel limitations, of course.\
 |\
-It's been a challenge due to both my inexperience and how ChromeOS shim kernel has unique quirks that makes it difficult to get non-FHS distro like NixOS running there. The repo is [`nixos-shimboot`](https://github.com/PopCat19/nixos-shimboot), which as of now doesn't boot into a DE/WM or even getty (yet).
+It's been a challenge due to both my inexperience and how ChromeOS shim kernel has unique quirks that makes it difficult to get non-FHS distro like NixOS running there. The repo is [`nixos-shimboot`](https://github.com/PopCat19/nixos-shimboot), which as of now is mostly functional, but the user experience among other things are still being worked on.
