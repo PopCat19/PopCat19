@@ -97,17 +97,22 @@ Only until 2023.11 had I build my personal, curated main rig by pure research an
 I used to play [osu!](https://osu.ppy.sh/users/27223591) frequently, so I made a [`Project-Minimalist`](https://github.com/PopCat19/Project-Minimalist) skin in Figma. It turned out better than I'd expected, and learned plenty about Figma and even made a custom palette, which a webui of it is hosted in [`minimalist-palette-web`](https://github.com/PopCat19/minimalist-palette-web) repo.
 
 #### NixOS Novice
-[`popcat19-nixos`](https://github.com/PopCat19/popcat19-nixos) includes my very first NixOS configuration prior to Home-Manager Flake transition. It's a thousand line mess built from the original NixOS configuration you'd get from the installer that lived in `/etc/nixos/`. I had to Ctrl+F to configure and add packages... TwT
+[`popcat19-nixos`](https://github.com/PopCat19/popcat19-nixos) includes my very first NixOS configuration prior to Home-Manager Flake transition. It's a thousand line mess built from the original NixOS configuration you'd get from the installer that lived in `/etc/nixos/`.\
+`(I had to Ctrl+F to configure and add packages... TwT)`
 
 #### WebGL Image Shader
-I did vibecode some projects like [`img-glsl-webui`](https://github.com/PopCat19/img-glsl-webui) for having something to render screen shaders on an image. Something I wanted where none were present/satiable. (I want to refactor/rewrite for WebGL 2.0 sometime)
+I did vibecode some projects like [`img-glsl-webui`](https://github.com/PopCat19/img-glsl-webui) for having something to render screen shaders on an image. Something I wanted where none were present/satiable.\
+`(I should refactor/rewrite it to use WebGL 2.0 sometime)`
 
 #### NixOS Flake Config
-[`popcat19-nixos-hm`](https://github.com/PopCat19/popcat19-nixos-hm) hosts my current NixOS configurations for multiple hosts to make it simply reproducible, which I also like. Most of it, usually flake and home-manager (module) configuration is vibecoded, except for the minimal installation, since it felt like installing Arch Linux for the first time. Also, theming in HM is such a pain. Why do KDE app themes like Dolphin have to differ from the qt6ct ones??? (qt kvantum theming is personally painful) -_-
+[`popcat19-nixos-hm`](https://github.com/PopCat19/popcat19-nixos-hm) hosts my current NixOS configurations for multiple hosts to make it simply reproducible, which I also like. Most of it, usually flake and home-manager (module) configuration is vibecoded, except for the minimal installation, since it felt like installing Arch Linux for the first time.\
+`(theming in HM is such a pain. Why do KDE app themes like Dolphin have to differ from the qt6ct ones?)`
 
 #### NixOS Shimboot
 Speaking of NixOS, I'm also trying to get it running on Chromebooks (with LLM contributions) in [`nixos-shimboot`](https://github.com/PopCat19/nixos-shimboot), which is forked from [`shimboot`](https://github.com/ading2210/shimboot) by [`ading2210`](https://github.com/ading2210). It's based on an exploit [Mercury Workshop team](https://sh1mmer.me/) discovered where we can replace RMA shim's rootfs with anything we want, albeit with kernel limitations, of course.\
 |\
 It's been a challenge due to my inexpertise in Nix and unique quirks from the ChromeOS shim kernel that makes it untrivial to get a non-FHS distro like NixOS running there.\
 |\
-Update 2025.12: I've been using it daily and it runs, somehow stable (except for rebuilds, eats time copying caches). Just needs board testing (I've only got it running on `dedede`), bwrap workarounds, UWSM+SDDM compatibility, busybox generation select script (like systemd-boot), CI workflows, and better project docs. It should be good for a beta release afterwards.
+Update 2025.12: I've been using it daily and it runs, somehow stable (except for rebuilds, eats time copying caches).\
+|\
+Just needs board testing (I've only got it running on `dedede`), bwrap workarounds, UWSM+SDDM compatibility, busybox generation select script (like systemd-boot), CI workflows, and better project docs. It should be good for a beta release afterwards.
