@@ -49,7 +49,7 @@ TMI: I've leaned off imagegen early 2024 in favor of learning to draw 2D illustr
 **Early 2024:** Then installed my first [Arch Linux](https://archlinux.org/) with [SomeOrdinaryGamers](https://www.youtube.com/watch?v=_JYIAaLrwcY)'s walkthrough video, with another attempt using the [Installation Guide](https://wiki.archlinux.org/title/Installation_guide) alone.\
 `(Took me about 8 hours of trial to install with the Installation Guide; everytime I mess up I had to reset and redo everything... ;-;)`\
 |\
-**Early 2024:** I moved to [CachyOS](https://cachyos.org/) and every felt great with their options and optimizations, especially on my previous PC from the 2014-era.\
+**Early 2024:** I moved to [CachyOS](https://cachyos.org/) and everything felt great with their options and optimizations, especially on my previous PC from the 2014-era.\
 |\
 **Mid 2025:** I moved to [NixOS](https://nixos.org/) with the [minimal/manual installation guide](https://nixos.org/manual/nixos/stable/#sec-installation-manual) due to btrfs root snapshot overflow shinanigans with CachyOS.\
 `I had separate parts for root and /home, root was so small that every update fills up the entire part with snapshots. It's been painful rebooting into TTY just to manually cleanup and rebalance...)`\
