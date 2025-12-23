@@ -40,7 +40,7 @@ TMI: I've leaned off imagegen early 2024 in favor of learning to draw 2D illustr
 #### Migration Journey
 **Late 2023:** My first dual-boot distro was [Zorin OS 16](https://zorin.com/os/) alongside my primary [Windows 10 IoT Enterprise LTSC 2021](https://archive.org/details/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f_202301) installation.\
 `(I didn't run sudo rm -rf --no-preserve-root / on that install)`\
-|
+|\
 **Late 2023:** My full transition distro was [Linux Mint](https://linuxmint.com/) due to its intuitive (and homely?) nature.\
 `(don't mind how reinstalling Windows 10 nuked my mounted sdb bootloader with BOOTMGR, giving me all the more incentive to switch www)`\
 |\
