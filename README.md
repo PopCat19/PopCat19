@@ -21,11 +21,11 @@ I personally feel more inclined to learn music, as my aspiration of the artists 
 |\
 TMI: I'll also try to rely on personal or commissioned illustrations over diffusion models for my own interest. I find the experience more valuable than the result in the illustrative space.
 
----
-
 <details>
-
-<summary>Expand For More Sauce</summary>
+<summary>
+  
+## [Click to Spill More Sauce]
+</summary>
 
 ### ML Exploration
 I've been comfortable at prompting for a while. I've been messing with LLMs since GPT 3.5, Pygmalion 6B, and a while when [character.ai's blue-hat-dude mascot](https://www.reddit.com/r/CharacterAI/comments/1fh3bsa/yall_what_happened_to_the_blue_guy_old_cai_logo/) still existed.\
