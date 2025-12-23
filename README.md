@@ -71,7 +71,7 @@ I'm using a:\
 Generally, my desk as of 2025.12 had:
 - Monitors: MSI MAG271VCR, Dell S2415H
 - Peripherals: COSTOM WK87 (womier fork), Razer DeathAdder V2, GAOMON S620, 8BitDo Ultimate (w/ dock), AKAI MPK mini play, Beats Studio Pro, and 3x Large Diet Pepsi.
-- Thinkpad: T480 (low IPS, no FP, no BLKB) + chinese 'SANYO' 61++ slice with \~80Wh capacity...\
+- Thinkpad: T480 (dim FHD IPS, no FP, no BLKB) + chinese 'SANYO' 61++ slice with \~80Wh capacity...\
   `(idk bro TLP says energy_full has 80060 mWh over its 71280 mWh energy_full_design even after recalibration, heck it even charges and force-discharges ~80Wh too???)`
 
 #### Main Rig (on desk)
