@@ -112,13 +112,13 @@ I did vibecode some projects like [`img-glsl-webui`](https://github.com/PopCat19
 
 #### NixOS Flake Config
 [`popcat19-nixos-hm`](https://github.com/PopCat19/popcat19-nixos-hm) hosts my current NixOS configurations for multiple hosts to make it simply reproducible, which I also like. Most of it, usually flake and home-manager (module) configuration is vibecoded, except for the minimal installation, since it felt like installing Arch Linux for the first time.\
-`(theming in HM is such a pain. Why do KDE app themes like Dolphin have to differ from the qt6ct ones?)`
+`(Theming in HM is such a pain. Why do KDE app themes like Dolphin have to differ from the qt6ct ones?)`
 
 #### NixOS Shimboot
 Speaking of NixOS, I'm also trying to get it running on Chromebooks (with LLM contributions) in [`nixos-shimboot`](https://github.com/PopCat19/nixos-shimboot), which is forked from [`shimboot`](https://github.com/ading2210/shimboot) by [`ading2210`](https://github.com/ading2210). It's based on an exploit [Mercury Workshop team](https://sh1mmer.me/) discovered where we can replace RMA shim's rootfs with anything we want, albeit with kernel limitations, of course.\
 |\
-It's been a challenge due to my inexpertise in Nix and unique quirks from the ChromeOS shim kernel that makes it untrivial to get a non-FHS distro like NixOS running there.\
+It's been a challenge due to my inexpertise in Nix and unique quirks from the ChromeOS shim kernel that makes it untrivial to get a non-FHS distro like NixOS running there.
+
+**Update 2025.12:** I've been using it frequently and it runs somewhat stable (except for rebuilds, it eats time copying caches).\
 |\
-Update 2025.12: I've been using it daily and it runs, somehow stable (except for rebuilds, eats time copying caches).\
-|\
-Just needs board testing (I've only got it running on `dedede`), bwrap workarounds, UWSM+SDDM compatibility, busybox generation select script (like systemd-boot), CI workflows, and better project docs. It should be good for a beta release afterwards.
+Just needs some board testing for compatibility (I've only got it running on HP ChromeBook 11 G9 EE Intel Celeron N4500 1.10GHz 4GB RAM 11.6" Chrome OS: `dedede`), bwrap workarounds, UWSM+SDDM compatibility, busybox generation select script (like systemd-boot), CI workflows, and better project docs. It should be good for a beta release afterwards.
