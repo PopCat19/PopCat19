@@ -1,5 +1,5 @@
 ## Me
-I'm PopCat19 (or kat, if pronouns matter: `they/he`).
+I'm PopCat19 (or pop; if pronouns matter: `they/he`)
 
 I'm not a software engineer. I vibecode projects for experimentation, hence my recent projects are frequently developed with LLM contributions.
 
@@ -18,14 +18,14 @@ Hopefully nice things happens along the way.
 `T⍑ᒷ リᔑᒲᒷ '!¡𝙹!¡ᓵᔑℸ ̣ ' ∴ᔑᓭ ↸ᒷ∷╎⍊ᒷ↸ ⎓∷𝙹ᒲ ᒲ|| リᒷᒲ⚍リᒷꖌ𝙹 ᓭℸ ̣ ⚍⎓⎓ᒷ↸ ᓵᔑℸ ̣  リᔑᒲᒷ↸ '!¡𝙹!¡𝙹' ᔑリ↸ '19' ∷ᒷ⎓ᒷ∷ᓭ ℸ ̣ 𝙹 ℸ ̣ ⍑ᒷ ||ᒷᔑ∷ '2019'. 'ꖌᔑℸ ̣ ' ╎ᓭ ᔑ !¡⍑𝙹リ╎ᓵ ᔑꖎ╎ᔑᓭ ⎓𝙹∷ ℸ ̣ ⍑ᒷ ∴𝙹∷↸ 'ᓵᔑℸ ̣ '. ᔑ↸𝙹∷╎リ⊣ꖎ|| ᒷリ𝙹⚍⊣⍑, ℸ ̣ ⍑ᒷ リᒷᒲ⚍リᒷꖌ𝙹 ᓭℸ ̣ ⚍⎓⎓ᒷ↸ ᓵᔑℸ ̣  ꖎ𝙹𝙹ꖌᓭ ꖎ╎ꖌᒷ ℸ ̣ ⍑ᒷ ᒲᓵ ⎓∷𝙹ᒲ ᒲ|| ⎓ᔑ⍊𝙹∷╎ℸ ̣ ᒷ ╎リ↸╎ᒷ ⊣ᔑᒲᒷ 'ᓵᔑℸ ̣ ᓭ ᔑ∷ᒷ ꖎ╎ᑑ⚍╎↸'.`
 
 ### Interests
-I don't do much. Mostly sleep, rethink life, watch YouTube, listen to [music](https://rentry.org/popcat19-curation0), occasionally watch [Anime](https://anilist.co/user/popcat19/), peek through (Dan)booru/Pixiv, and sometimes check out cool projects to mess with.\
+I don't do much. Mostly sleep, rethink life, watch YouTube, listen to [music](https://rentry.org/popcat19-curation0), (occasionally) watch [Anime](https://anilist.co/user/popcat19/), peek through Pixiv, and sometimes check out cool projects to mess with.\
 |\
-That being said, I'm interested in drawing/designing [2D Illustrations](https://www.pixiv.net/users/89345370), composing music (with open-source projects like Beepbox Mods, LMMS, Ardour, or Furnace), and learn Bash, Python, Go, Rust, TypeScript, and Kotlin for fun projects someday.\
+That being said, I'm interested in drawing/designing [2D Illustrations](https://www.pixiv.net/users/89345370), composing music, and learn Bash, Python, Go, Rust, TypeScript, and Kotlin for fun personal projects someday.\
 |\
 I personally feel more inclined to learn music, as my aspiration of the artists mentioned in [my curation](https://rentry.org/popcat19-curation0) keeps growing. Though, I also want to grow my own style in illustrations and create visualizers once I gain enough Rust knowledge.\
 `(Of course, because of the recent LLM surge I may voluntarily have them assist beyond boilerplates in such journeys whilst making it fun ^^)`\
 |\
-TMI: I'll also try to rely on personal or commissioned illustrations over diffusion models for my own interest. I find the experience more valuable than the result in the illustrative space.
+I'll also try to rely on personal or commissioned illustrations over diffusion models for my own interest. I find the experience more valuable than the result in the illustrative space.
 
 ### ML Exploration
 I've been comfortable at prompting for a while. I've been messing with LLMs since GPT 3.5, Pygmalion 6B, and a while when [character.ai's blue-hat-dude mascot](https://www.reddit.com/r/CharacterAI/comments/1fh3bsa/yall_what_happened_to_the_blue_guy_old_cai_logo/) still existed.\
@@ -33,7 +33,7 @@ I've been comfortable at prompting for a while. I've been messing with LLMs sinc
 I've also experimented with Stable Diffusion and [anime|[pastel](https://huggingface.co/mirroring/pastel-mix)] finetuned models like  [WaifuDiffusion](https://huggingface.co/hakurei/waifu-diffusion) and [AnythingV3](https://huggingface.co/Linaqruf/anything-v3.0) alike, usually within [artbot](https://artbot.site/) or locally with [comfyui](https://github.com/comfyanonymous/ComfyUI)\
 `(~10min gens on the puny 2GB VRAM of the GTX 750Ti www)`\
 |\
-TMI: I've leaned off imagegen early 2024 in favor of learning to draw 2D illustrations.
+I've leaned off imagegen early 2024 in favor of learning to draw 2D illustrations.
 
 ### Linux
 
@@ -54,7 +54,7 @@ TMI: I've leaned off imagegen early 2024 in favor of learning to draw 2D illustr
 **Mid 2025:** I moved to [NixOS](https://nixos.org/) with the [minimal/manual installation guide](https://nixos.org/manual/nixos/stable/#sec-installation-manual) due to btrfs root snapshot overflow shinanigans with CachyOS.\
 `I had separate parts for root and /home, root was so small that every update fills up the entire part with snapshots. It's been painful rebooting into TTY just to manually cleanup and rebalance...)`\
 |\
-TMI: My actual linux encounter was much earlier, where I had to use Linux Mint's LiveISO when I was installing [BrunchFramework ChromeOS](https://github.com/sebanc/brunch) on a poor Intel Celeron N3000 laptop with 512GB 5200rpm HDD that barely runs the YouTube website itself or even stream 480p on Firefox/Chromium running Arch Linux Xfce.\
+My actual linux encounter was much earlier, where I had to use Linux Mint's LiveISO when I was installing [BrunchFramework ChromeOS](https://github.com/sebanc/brunch) on a poor Intel Celeron N3000 laptop with 512GB 5200rpm HDD that barely runs the YouTube website itself or even stream 480p on Firefox/Chromium running Arch Linux Xfce.\
 `(I hate that 'they' still sell these kind of stuff, just adopt a used T480 with dual battery for <$140 USD on ebay)`
 
 #### Distro rank
