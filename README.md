@@ -1,13 +1,19 @@
 ## Me
-I'm PopCat19 (or kat, if pronouns matter: `they/he`) and I like to procrastinate.
+I'm PopCat19 (or kat, if pronouns matter: `they/he`).
 
-Despite lacking the experience in programming fundamentals, I enjoy LLM vibecoding (on a budget) due to its ease and subjectively lazy nature, hence why my recent projects are being developed with LLM contributions.
+I'm not a software engineer. I vibecode projects for experimentation, hence my recent projects are frequently developed with LLM contributions.
 
-I'm lazy: Instead of going through proper means for a solution, whether it be simple or otherwise, I voluntarily suffer by making things overcomplicated just for a solution. 
+<details>
+<summary>
+  
+### [Soup]
+</summary>
+
+I frequently make things overcomplicated instead of going through proper means for a solution. 
 
 My ethnicity is half Japanese/Filipino, though I haven't spoken Japanese as my native language since 2015.
 
-I've been navigating through anhedonia and executive dysfunction recently. Hopefully something nice happens along the way.
+Hopefully nice things happens along the way.
 
 `T⍑ᒷ リᔑᒲᒷ '!¡𝙹!¡ᓵᔑℸ ̣ ' ∴ᔑᓭ ↸ᒷ∷╎⍊ᒷ↸ ⎓∷𝙹ᒲ ᒲ|| リᒷᒲ⚍リᒷꖌ𝙹 ᓭℸ ̣ ⚍⎓⎓ᒷ↸ ᓵᔑℸ ̣  リᔑᒲᒷ↸ '!¡𝙹!¡𝙹' ᔑリ↸ '19' ∷ᒷ⎓ᒷ∷ᓭ ℸ ̣ 𝙹 ℸ ̣ ⍑ᒷ ||ᒷᔑ∷ '2019'. 'ꖌᔑℸ ̣ ' ╎ᓭ ᔑ !¡⍑𝙹リ╎ᓵ ᔑꖎ╎ᔑᓭ ⎓𝙹∷ ℸ ̣ ⍑ᒷ ∴𝙹∷↸ 'ᓵᔑℸ ̣ '. ᔑ↸𝙹∷╎リ⊣ꖎ|| ᒷリ𝙹⚍⊣⍑, ℸ ̣ ⍑ᒷ リᒷᒲ⚍リᒷꖌ𝙹 ᓭℸ ̣ ⚍⎓⎓ᒷ↸ ᓵᔑℸ ̣  ꖎ𝙹𝙹ꖌᓭ ꖎ╎ꖌᒷ ℸ ̣ ⍑ᒷ ᒲᓵ ⎓∷𝙹ᒲ ᒲ|| ⎓ᔑ⍊𝙹∷╎ℸ ̣ ᒷ ╎リ↸╎ᒷ ⊣ᔑᒲᒷ 'ᓵᔑℸ ̣ ᓭ ᔑ∷ᒷ ꖎ╎ᑑ⚍╎↸'.`
 
@@ -20,12 +26,6 @@ I personally feel more inclined to learn music, as my aspiration of the artists 
 `(Of course, because of the recent LLM surge I may voluntarily have them assist beyond boilerplates in such journeys whilst making it fun ^^)`\
 |\
 TMI: I'll also try to rely on personal or commissioned illustrations over diffusion models for my own interest. I find the experience more valuable than the result in the illustrative space.
-
-<details>
-<summary>
-  
-## [Click to Spill More Sauce]
-</summary>
 
 ### ML Exploration
 I've been comfortable at prompting for a while. I've been messing with LLMs since GPT 3.5, Pygmalion 6B, and a while when [character.ai's blue-hat-dude mascot](https://www.reddit.com/r/CharacterAI/comments/1fh3bsa/yall_what_happened_to_the_blue_guy_old_cai_logo/) still existed.\
