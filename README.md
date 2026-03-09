@@ -1,7 +1,7 @@
 ## Me
 I'm PopCat19 (or pop; if pronouns matter: `they/he`)
 
-I'm not a software engineer. I vibecode projects for experimentation, hence my recent projects are frequently developed with LLM contributions.
+Not an engineer. I just vibecode and tinker with projects for exploration, hence my recent projects are frequently developed with LLM contributions.
 
 <details>
 <summary>
@@ -11,7 +11,7 @@ I'm not a software engineer. I vibecode projects for experimentation, hence my r
 
 I frequently make things overcomplicated instead of going through proper means for a solution. 
 
-My ethnicity is half Japanese/Filipino, though I haven't spoken Japanese as my native language since 2015.
+While my ethnicity is half Japanese/Filipino, though I haven't spoken Japanese as my native language since 2015.
 
 Hopefully nice things happens along the way.
 
