@@ -21,7 +21,7 @@ I want to sleep, but I've yet to rethink life do other things aside YouTube, [mu
 That being said, I've been interested in designing concepts, composing/remixing music, [2D Illustrations](https://www.pixiv.net/users/89345370), and later learn Rust just for technical exploration someday.
 
 My aspiration of the artists mentioned in [my curation](https://rentry.org/popcat19-curation0) keeps me engaged in music. Though, I also want to grow my own style in illustrations and create visualizers once I gain enough Rust knowledge.\
-`(Of course, because of the recent LLM surge I may voluntarily have them assist beyond boilerplates in such journeys whilst making it fun ^^)`
+`(I may still have LLMs assist with programming to avoid burnouts)`
 
 I find the experience more valuable than the result in the illustrative space, so I'll also explore some personal or commissioned illustrations for projects needing an image. 
 
